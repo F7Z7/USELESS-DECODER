@@ -34,4 +34,4 @@ if input_string.isalpha():
     decode_string = decoder(input_string, length)
     print("Your decoded string is:", decode_string)
 else:
-    print("Please enter a valid string (letters only).")
+    print("Please enter a valid string (letters only)")
